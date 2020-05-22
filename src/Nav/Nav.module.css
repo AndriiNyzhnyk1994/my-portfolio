@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+
+
+}
+

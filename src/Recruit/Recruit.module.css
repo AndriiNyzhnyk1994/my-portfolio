@@ -1,0 +1,24 @@
+.recruitBlock {
+    border: 1px solid red;
+    height: 10vh;
+    background-color: #706f77;
+}
+
+.recruitContainer {
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.recruitSpan {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.recuitButton {
+    text-align: center;
+    background-color: darksalmon;
+    width: 90px;
+    height: 30px;
+    display: block;
+}
